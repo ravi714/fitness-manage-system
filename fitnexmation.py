@@ -1,4 +1,5 @@
 import datetime
+#if You need add more people just add name in clintlist 
 clintlist=["Ravi","Rohan","Mohan","Sonu","Monu"]
 clintindex=1
 #Retrun Date and Time
